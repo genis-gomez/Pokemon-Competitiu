@@ -634,6 +634,11 @@ body{
 }
 
 @media (max-width: 1160px) {
+    header{
+        font-size: 3em;
+        height: 75px;
+    }
+	
     nav{
         grid-column-start: 1;
         grid-column-end: 4;
